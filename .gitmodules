@@ -1,0 +1,6 @@
+[submodule "dgm_back"]
+	path = dgm_back
+	url = git@github.com:dgmcguire/dgm_back.git
+[submodule "dgm_front"]
+	path = dgm_front
+	url = git@github.com:dgmcguire/dgm_front.git
